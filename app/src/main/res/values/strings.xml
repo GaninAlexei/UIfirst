@@ -1,0 +1,10 @@
+<resources>
+    <string name="app_name">HomeWorkUI</string>
+    <string name="your_result">Your result:</string>
+    <string name="dice_2">dice_two</string>
+    <string name="dice_1">dice_one</string>
+    <string name="roll">Roll</string>
+    <string name="enter_your_name">Enter your name:</string>
+    <string name="_0">0</string>
+    <string name="your_results">Your results:</string>
+</resources>
